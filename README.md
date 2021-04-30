@@ -1,2 +1,2 @@
 # Logistic-Regression
-In this project, we build a logistic regression model to predict the survival probability of passengers in Titanic.
+In this project, we built a logistic regression model to predict the survival probability of passengers in Titanic.
